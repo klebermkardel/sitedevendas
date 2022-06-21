@@ -673,7 +673,7 @@ section .container{
         right: 40px;
     }
     header .btn ion-icon {
-        color: #ffe600;
+        color: #000;
         font-size: 1.5rem;
         cursor: pointer;
     }
