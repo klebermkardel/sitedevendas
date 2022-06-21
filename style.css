@@ -677,4 +677,25 @@ section .container{
         font-size: 1.5rem;
         cursor: pointer;
     }
+    #home .container {
+        background-size: 105% 100%;
+    }
+    #home .container .content {
+        width: 70%;
+    }
+    #home .container .content h1 {
+        font-size: 2rem;
+    }
+    #home .container .content p {
+        font-size: 1.1rem;
+    }
+    home .container .content span {
+        font-size: 2rem;
+    }
+    home .container .content .button {
+        padding-top: 70px;
+    }
+    home .container .content .button button {
+        font-size: 1.1rem;
+    }
 }
