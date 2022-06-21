@@ -689,13 +689,20 @@ section .container{
     #home .container .content p {
         font-size: 1.1rem;
     }
-    home .container .content span {
+    #home .container .content span {
         font-size: 2rem;
     }
-    home .container .content .button {
+    #home .container .content .button {
         padding-top: 70px;
     }
-    home .container .content .button button {
-        font-size: 1.1rem;
+    #home .container .content .button button {
+        font-size: 1.5rem;
+    }
+    #branch .container .content .box {
+        width: 28%;
+    }
+    #branch .container .box button {
+        padding: 8px 18px;
+        margin-top: 15px;
     }
 }
