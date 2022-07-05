@@ -766,3 +766,6 @@ section .container{
         font-size: 1rem;
     }
 }
+@media screen and (max-width: 750px){
+    
+}
