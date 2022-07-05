@@ -767,5 +767,7 @@ section .container{
     }
 }
 @media screen and (max-width: 750px){
-    
+    #home .container {
+        background-size:  130% 100%;
+    }
 }
