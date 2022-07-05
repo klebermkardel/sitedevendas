@@ -749,4 +749,20 @@ section .container{
         padding: 8px 18px;
         font-size: 1.1rem;
     }
+    #footer .container .content .left h1 {
+        font-size: 1.6rem;
+    }
+    #footer .container .content .left p {
+        font-size: 1.1rem;
+        margin-top: 20px;
+    }
+    #footer .container .content .right button {
+        margin-left: 50px;
+    }
+    #footer .container .info .box ion-icon {
+        font-size: 1.2rem;
+    }
+    #footer .container .copyright p{
+        font-size: 1rem;
+    }
 }
