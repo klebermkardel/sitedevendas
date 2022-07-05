@@ -705,4 +705,28 @@ section .container{
         padding: 8px 18px;
         margin-top: 15px;
     }
+    #about .container .title {
+        width: 80%;
+    }
+    #about .container .title h1 {
+        font-size: 1.5rem;
+    }
+    #about .container .title .call {
+        width: 60%;
+        top: 60px;
+        left: 90px;
+    }
+    #about .container .title .call h2 {
+        font-size: 2rem;
+        margin-bottom: 40px;
+    }
+    #about .container .title .call p {
+        font-size: 1.2rem;
+    }
+    #products .container .card {
+        width: 80%;
+    }
+    #products .container .card .box {
+        padding: 200px 0;
+    }
 }
